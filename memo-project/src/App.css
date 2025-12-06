@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  height: 100vh;
+}
+
+
+
+
+.MemoItem {
+  width: 100%;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  padding: 5px 8px;
+  box-sizing: border-box;
+  position: relative;
+}
+
